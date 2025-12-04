@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Node / GitBook cache (혹시 CLI 연동 시)
+node_modules/
+.gitbook/
+
+# Temporary files
+*.log
+.tmp/
+.cache/
+
+# Build artifacts (GitBook export 등)
+_book/
+public/
+dist/
