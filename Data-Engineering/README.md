@@ -1,4 +1,4 @@
-# 데이터 엔지니어링 (Data Engineering)
+# Data Engineering
 
 실무 중심의 데이터 엔지니어링 기술을 정리합니다.
 ### 구성

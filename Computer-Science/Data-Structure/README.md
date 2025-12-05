@@ -1,4 +1,4 @@
-# 자료구조 (Data Structure)
+# Data Structure
 
 알고리즘과 시스템 설계의 기본이 되는 자료구조를 정리합니다.
 

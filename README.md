@@ -1,4 +1,4 @@
-# 기술 면접 정리 노트 (Tech Interview Notes)
+# Tech Interview Notes
 
 이 문서는 기술 면접 대비를 위해 공부한 내용을 정리한 저장소입니다.  
 데이터 엔지니어링과 기본 CS 지식을 중심으로 구성했으며, GitBook과 연동하여 관리합니다.

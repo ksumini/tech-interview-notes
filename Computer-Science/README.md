@@ -1,4 +1,4 @@
-# 컴퓨터 공학 기초 (Computer Science)
+# Computer Science
 
 기술 면접에서 반복적으로 등장하는 기본 CS 개념을 정리합니다.
 

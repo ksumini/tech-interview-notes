@@ -1,4 +1,4 @@
-# 컴퓨터 구조 (Computer Architecture)
+# Computer Architecture
 
 컴퓨터가 어떻게 동작하는지를 이해하기 위한 기본 개념들입니다.
 

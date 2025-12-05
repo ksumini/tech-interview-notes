@@ -1,4 +1,4 @@
-# 운영체제 (Operating System)
+# Operating System
 
 ### 주요 내용
 - 프로세스 vs 스레드
