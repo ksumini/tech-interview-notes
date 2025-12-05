@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "842c0fc0776c4cc3",
+        "id": "ac1b2b6bb657d3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "500adadcb6a9bf2c",
+            "id": "67cd0ad3bf529896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer-Science/Operating-System/Process.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "500adadcb6a9bf2c",
+  "active": "67cd0ad3bf529896",
   "lastOpenFiles": [
+    "Computer-Science/Operating-System/Process.md",
     "Computer-Science/assets/20251205123721.png",
     "Computer-Science/assets/20251205123423.png",
     "Computer-Science/assets/20251205123406.png",
     "Computer-Science/assets/20251204202031.png",
-    "Computer-Science/Operating-System/Process.md",
     "Computer-Science/assets/20251205155736.png",
     "Computer-Science/assets/20251205122842.png",
     "Pasted imag.md",
