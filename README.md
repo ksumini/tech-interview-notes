@@ -4,15 +4,15 @@
 데이터 엔지니어링과 기본 CS 지식을 중심으로 구성했으며, GitBook과 연동하여 관리합니다.
 
 ## 구성
-### [Algorithm](https://github.com/ksumini/tech-interview-notes/tree/main/Algorithm)
+### Algorithm
 - 코딩 테스트 대비 알고리즘 정리
-### [Computer Science](https://github.com/ksumini/tech-interview-notes/tree/main/Computer-Science)
+### Computer Science
   - Computer Architecture  
   - Data Structure  
   - Operating System  
   - Database  
   - Network  
-### [Data Engineering](https://github.com/ksumini/tech-interview-notes/tree/main/Data-Engineering)
+### Data Engineering
   - Airflow  
   - Kafka  
   - Spark  
