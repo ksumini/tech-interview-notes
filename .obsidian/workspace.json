@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd84e6473b00a6e",
+        "id": "842c0fc0776c4cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "d137657689f27755",
+            "id": "500adadcb6a9bf2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,17 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d137657689f27755",
+  "active": "500adadcb6a9bf2c",
   "lastOpenFiles": [
-    "Computer-Science/assets/Pasted image 20251204202031.png",
-    "Computer-Science/assets/Pasted image 20251205122842.png",
-    "Computer-Science/assets/Pasted image 20251205123406.png",
-    "Computer-Science/assets/Pasted image 20251205123423.png",
-    "Computer-Science/assets/Pasted image 20251205123721.png",
+    "Computer-Science/assets/20251205123721.png",
+    "Computer-Science/assets/20251205123423.png",
+    "Computer-Science/assets/20251205123406.png",
+    "Computer-Science/assets/20251204202031.png",
     "Computer-Science/Operating-System/Process.md",
+    "Computer-Science/assets/20251205155736.png",
+    "Computer-Science/assets/20251205122842.png",
     "Pasted imag.md",
     "Computer-Science/assets/Pasted.md",
-    "Computer-Science/assets/Pasted image 20251205155736.png",
     "Computer-Science/assets",
     "Computer-Science/Operating-System/Process/PCB(Process Control Block).md",
     "Pasted image 20251204194016.png",
